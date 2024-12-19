@@ -1,6 +1,6 @@
 # To-Do List using ReactJS + Vite
 
-![image](https://github.com/user-attachments/assets/9365fd8d-1637-474c-87aa-f749e5f1a681)
+![](./src/assets/todo.gif)
 
 User is able to:
   1. Create new tasks
